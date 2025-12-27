@@ -1,7 +1,8 @@
 -- =========================
--- Table : vehicules
+-- Table : vehicule
 -- Affichage des véhicules
 -- =========================
 
-SELECT *
-FROM vehicules;
+SELECT id_vehicule, marque, modele, id_type
+FROM vehicule;
+

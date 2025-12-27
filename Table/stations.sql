@@ -3,5 +3,5 @@
 -- Affichage des stations
 -- =========================
 
-SELECT *
-FROM stations;
+SELECT id_station, nom, adresse, ville
+FROM station;
