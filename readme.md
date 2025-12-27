@@ -1,5 +1,24 @@
 # Projet Base de Données – Location de véhicules
 
+## Structure du projet
+/sql
+- clients.sql
+- vehicules.sql
+- locations.sql
+- paiements.sql
+- maintenance.sql
+- stations.sql
+- stats.sql
+- vues.sql
+- fonctions.sql
+- triggers.sql
+
+/doc
+- documentation.md
+- queries_backup.sql
+
+README.md
+
 ## Présentation
 Ce projet consiste à concevoir et exploiter une base de données relationnelle
 pour la gestion d’un service de location de véhicules.
