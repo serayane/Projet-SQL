@@ -1,3 +1,5 @@
+DROP SCHEMA IF EXISTS public CASCADE;
+CREATE SCHEMA public;
 DROP TABLE IF EXISTS "public"."vehicule";
 -- Sequence and defined type
 CREATE SEQUENCE IF NOT EXISTS vehicule_id_vehicule_seq;
